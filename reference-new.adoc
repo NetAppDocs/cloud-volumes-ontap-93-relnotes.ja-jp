@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: reference-new.html 
 keywords: 'what"s new, new, features, release notes, enhancements' 
-summary: ONTAP Cloud の新リリースには、新機能、拡張機能、およびバグ修正が含まれています。 
+summary: ONTAP Cloud 9.3 には、いくつかの新機能と機能拡張が含まれています。 
 ---
 = ONTAP Cloud 9.3 の新機能
 :hardbreaks:
