@@ -6,6 +6,7 @@ summary: ONTAP クラウドには、 AWS と Azure の複数の構成があり�
 ---
 = サポートされている構成
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

@@ -6,6 +6,7 @@ summary: ONTAP クラウドには、安定した運用を実現するために�
 ---
 = ストレージの制限
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

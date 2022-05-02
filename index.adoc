@@ -7,6 +7,7 @@ summary: このリリースノートでは、 ONTAP Cloud 9.3 の新機能、制
 ---
 = ONTAP Cloud 9.3 リリースノート
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 
