@@ -41,7 +41,7 @@ settings:
   - name: Cloud Volumes ONTAP
     url: "/cloud-volumes-ontap-94-relnotes"
     version-number: '9.4'
-  langs: ja-jp,us-en,zh-cn,ko-kr
+  langs: ja-jp,us-en,zh-cn,zh-tw,ko-kr
 sidebar:
   entries:
   - title: Cloud Manager のすべてのドキュメント
