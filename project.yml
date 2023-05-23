@@ -53,7 +53,7 @@ settings:
   - name: Cloud Volumes ONTAP
     url: "/cloud-volumes-ontap-94-relnotes"
     version-number: '9.4'
-  langs: ja-jp,us-en,ko-kr,zh-cn,zh-tw,de-de,es-es,fr-fr
+  langs: ja-jp,us-en,ko-kr,zh-cn,zh-tw,de-de,es-es,fr-fr,it-it
 sidebar:
   entries:
   - title: リリースノートのホーム
