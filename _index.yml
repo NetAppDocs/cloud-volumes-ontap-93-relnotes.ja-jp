@@ -1,6 +1,6 @@
 ---
 indexpage:
-  title: ONTAP Cloud 9.3 リリースノート
+  title: ONTAP Cloud 9.3リリースノート
   summary: このリリースノートでは、 ONTAP Cloud 9.3 の新機能、制限事項、および既知の問題について説明します。
   keywords: cloud volumes ontap, licensing, security, release notes, storage, data
     protection, configuration, upgrade, encryption, cvo, 93
