@@ -61,7 +61,7 @@ AWS では、 ONTAP クラウドを単一システムまたは HA ペアとし�
 . ONTAP クラウドの Standard 、 Premium 、および BYOL で EBS SSD を使用すると、書き込みパフォーマンスが向上します。
 . データ階層化は、 ONTAP クラウドの Standard 、 Premium 、および BYOL でサポートされています。
 . データ階層化を有効にすると、システムの容量制限は同じままになります。容量の制限には、ディスクとオブジェクトストレージの両方が含まれます。
-. AWS リージョンのサポートについては、を参照してください https://cloud.netapp.com/cloud-volumes-global-regions["Cloud Volume グローバルリージョン"]。
+. AWSリージョンのサポートについては、を参照してください https://bluexp.netapp.com/cloud-volumes-global-regions["Cloud Volume グローバルリージョン"]。
 
 
 
@@ -101,5 +101,5 @@ Azure では、 ONTAP クラウドをシングルノードシステムとして�
 注：
 
 . ONTAP Cloud Standard 、 Premium 、および BYOL で Azure Premium Storage ディスクを使用している場合は、書き込みパフォーマンスの向上がサポートされますが、 DS3_v2 仮想マシンタイプを使用している場合はサポートされません。
-. Azure リージョンのサポートについては、を参照してください https://cloud.netapp.com/cloud-volumes-global-regions["Cloud Volume グローバルリージョン"]。
+. Azureリージョンのサポートについては、を参照してください https://bluexp.netapp.com/cloud-volumes-global-regions["Cloud Volume グローバルリージョン"]。
 
